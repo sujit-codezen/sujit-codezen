@@ -1,3 +1,7 @@
+![cover](https://github.com/DebugxFistey/DebugxFistey/assets/124259614/fe2eb3b7-cf25-4dfc-95b3-7ebfc9717297)
+
+
+
 <h1 align="center">Hi 👋, I'm Suijt Khanal</h1>
 <h3 align="center">At MoreTech Global, I serve as a Senior Backend Developer and Project Manager, focusing on creating robust and scalable backend systems using Django and Python. My skill set includes a wide range of programming languages such as HTML, CSS, React.js, PHP, and JavaScript. I am proficient in managing databases like MySQL, PostgreSQL, and Redis, ensuring top-notch performance and reliability. With comprehensive knowledge in both backend and frontend technologies, I oversee projects from start to finish, fostering innovation and maintaining excellence in all endeavors.</h3>
 
