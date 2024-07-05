@@ -1,4 +1,4 @@
-![cover](https://github.com/DebugxFistey/DebugxFistey/assets/124259614/fe2eb3b7-cf25-4dfc-95b3-7ebfc9717297)
+<p align="center"><img src="https://github.com/DebugxFistey/DebugxFistey/assets/124259614/fe2eb3b7-cf25-4dfc-95b3-7ebfc9717297" alt="debugxfistey" /></p>
 
 
 
