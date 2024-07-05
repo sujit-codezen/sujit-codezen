@@ -1,6 +1,32 @@
 <p align="center"><img src="https://github.com/sujit-codezen/sujit-codezen/assets/124259614/c713119e-92d6-484d-bd59-0514c192dfe8" alt="debugxfistey" /></p>
 <h1 align="center">Hi 👋, I'm Suijt Khanal</h1>
-<h3 align="center">At MoreTech Global, I serve as a Senior Backend Developer and Project Manager, focusing on creating robust and scalable backend systems using Django and Python. My skill set includes a wide range of programming languages such as HTML, CSS, React.js, PHP, and JavaScript. I am proficient in managing databases like MySQL, PostgreSQL, and Redis, ensuring top-notch performance and reliability. With comprehensive knowledge in both backend and frontend technologies, I oversee projects from start to finish, fostering innovation and maintaining excellence in all endeavors.</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40" />
+  At MoreTech Global, I serve as a Senior Backend Developer and Project Manager, focusing on creating robust and scalable backend systems using Django and Python.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" />
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" width="40" height="40" />
+  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" />
+  My skill set includes a wide range of programming languages such as HTML, CSS, React.js, PHP, and JavaScript.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/redis.png" width="40" height="40" />
+  I am proficient in managing databases like MySQL, PostgreSQL, and Redis, ensuring top-notch performance and reliability.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/project-management.png" width="40" height="40" />
+  With comprehensive knowledge in both backend and frontend technologies, I oversee projects from start to finish, fostering innovation and maintaining excellence in all endeavors.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debugxfistey&label=Profile%20views&color=0e75b6&style=flat" alt="debugxfistey" /> </p>
 
