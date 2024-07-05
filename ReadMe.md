@@ -8,6 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<div>
+<img align="right" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" width="400" height="250" />
+  
 - 🔭 I’m currently working on [MoreDeals Club](comming soon)
 
 - 🌱 I’m currently learning **Machine Learnig, AI**
@@ -21,6 +24,8 @@
 - 📫 How to reach me **10sujitkhanal@gmail.com**
 
 - 📄 Know about my experiences [https://khanalsujit.com.np/resume/](https://khanalsujit.com.np/resume/)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
