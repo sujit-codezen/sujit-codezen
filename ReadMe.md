@@ -3,7 +3,7 @@
 <h3 align="center">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/django.png" width="40" height="40" /> 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40" />
-  At MoreTech Global, I serve as a Senior Backend Developer and Project Manager, focusing on creating robust and scalable backend systems using Django and Python.
+ I serve as a Python/Django Developer, focusing on creating robust and scalable backend systems using Django and Python.
 </h3>
 
 <h3 align="center">
